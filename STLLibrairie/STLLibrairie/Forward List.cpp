@@ -1,0 +1,1 @@
+// Like List exept that it only has forward pointer it can be traversed from begin to end 
