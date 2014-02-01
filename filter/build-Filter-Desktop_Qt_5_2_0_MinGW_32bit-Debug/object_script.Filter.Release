@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\help.o
+./release\about.o
+./release\iplimage2qimage.o
+./release\filter.o
+./release\fullview.o
+./release\qrc_Images.o
+./release\moc_mainwindow.o
+./release\moc_help.o
+./release\moc_about.o
+./release\moc_fullview.o
+);

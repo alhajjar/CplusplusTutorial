@@ -35,10 +35,10 @@ FORMS    += mainwindow.ui \
 RESOURCES += \
     Images.qrc
 
-INCLUDEPATH += C:\Users\Mido\Documents\livrable_Final_Ahmad\Library\OpenCV/include \
+INCLUDEPATH += C:\Users\Mido\Documents\CplusplusTuto\Library\OpenCv/include \
 #C:\Users\Mido\Documents\livrable_Final_Ahmad\Library\Boost\include
 
-LIBS +=-LC:\Users\Mido\Documents\livrable_Final_Ahmad\Library\OpenCv\lib -lopencv_core246.dll -lopencv_imgproc246.dll \
+LIBS +=-LC:\Users\Mido\Documents\CplusplusTuto\Library\OpenCv\lib -lopencv_core246.dll -lopencv_imgproc246.dll \
  -lopencv_highgui246.dll -lopencv_ml246.dll \
 #-LC:\Users\Mido\Documents\livrable_Final_Ahmad\Library\Boost\lib -lboost_thread-mgw46-mt-1_54  -lboost_system-mgw46-d-1_54
 
