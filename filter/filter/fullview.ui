@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Fullview</class>
+ <widget class="QDialog" name="Fullview">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>970</width>
+    <height>579</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="sizeGripEnabled">
+   <bool>false</bool>
+  </property>
+  <property name="modal">
+   <bool>false</bool>
+  </property>
+  <widget class="QLabel" name="full_view_2">
+   <property name="geometry">
+    <rect>
+     <x>5</x>
+     <y>2</y>
+     <width>961</width>
+     <height>571</height>
+    </rect>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>961</width>
+     <height>571</height>
+    </size>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
