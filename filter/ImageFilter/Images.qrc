@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Images/about.png</file>
+        <file>Images/exit-icon.png</file>
+        <file>Images/help-icon.png</file>
+        <file>Images/Open-icon.png</file>
+        <file>Images/Save-icon.png</file>
+        <file>Images/44470-logo_matrix-44472-pad-0.jpg</file>
+        <file>Images/logo.png</file>
+    </qresource>
+</RCC>
